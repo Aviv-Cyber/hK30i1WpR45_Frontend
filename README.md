@@ -1,6 +1,6 @@
-# {{APP_NAME}}
+# hK30i1WpR45
 
-- **Application Name:** {{APP_NAME}}
-- **Frontend Repository:** `{{FRONTEND_REPO}}`
-- **Live Pages URL:** [{{LIVE_URL}}]({{LIVE_URL}})
+- **Application Name:** hK30i1WpR45
+- **Frontend Repository:** `hK30i1WpR45_Frontend`
+- **Live Pages URL:** [https://aviv-cyber.github.io/hK30i1WpR45_Frontend/](https://aviv-cyber.github.io/hK30i1WpR45_Frontend/)
 - **Architecture:** VaultDB (AES-GCM Encrypted Endpoint + Cloudflare Worker Proxy)
